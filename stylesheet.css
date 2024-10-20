@@ -44,3 +44,14 @@ h1 {
     font-weight: bold;
     font-size: 2em;
 }
+
+nav {
+    display: flex;
+    flex-grow: 2;
+    align-self: flex-start;
+    justify-content: right;
+}
+
+a {
+    width: 75px;
+}
