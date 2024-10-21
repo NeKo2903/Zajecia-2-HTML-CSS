@@ -40,6 +40,8 @@ main {
 footer {
     display: flex;
     flex-direction: column;
+    grid-row-start: 2;
+    grid-row-end: 3;
 }
 
 header h1 {
